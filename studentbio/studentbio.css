@@ -1,26 +1,24 @@
-<!-- BEGIN CSS -->
-<style>
+/*Start CSS*/
 
-<head>
-.head {
-    background-color: blue 
-}
-.bioTitle {
+header {
+    background-color: blue;
+    width: 100%;
+    height:100px;
     text-align: center;
- 
-
 }
 
-
-</head>
-<body>
 .title{
     text-align: left;
 }
+
+p{
+   word-wrap: normal;
+   width:300px;
+}
+
 .contactInfo {
     float:right;
 }
 
-</body>
-</style> 
-<!-- END CSS -->
+
+/*End CSS*/
