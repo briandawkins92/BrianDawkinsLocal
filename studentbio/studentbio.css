@@ -1,0 +1,26 @@
+<!-- BEGIN CSS -->
+<style>
+
+<head>
+.head {
+    background-color: blue 
+}
+.bioTitle {
+    text-align: center;
+ 
+
+}
+
+
+</head>
+<body>
+.title{
+    text-align: left;
+}
+.contactInfo {
+    float:right;
+}
+
+</body>
+</style> 
+<!-- END CSS -->
